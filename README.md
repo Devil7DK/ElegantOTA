@@ -22,6 +22,22 @@
 ElegantOTA provides a beautiful user interface to upload over-the-air firmware/filesystem updates to your hardware with precise status and progress. ElegantOTA is designed to make the process of OTA updates slick and simple!
 </p>
 
+---
+
+## ⚠️ **MODIFICATION NOTICE**
+
+**This is a modified version of the original ElegantOTA library.**
+
+Changes made to the original code:
+- ✅ **Removed references to paid/premium features** (Hardware ID, Firmware Version display, etc.)
+- ✅ **Removed promotional content** for ElegantOTA Pro upgrade
+- ✅ **Changed branding elements** to remove proprietary references
+- ✅ **Maintained core OTA functionality** while removing commercial limitations
+
+This modified version is distributed under the same **AGPL v3.0 license** as the original. All modifications comply with the open-source license terms.
+
+---
+
 <br/>
 <br/>
 
